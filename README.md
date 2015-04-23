@@ -7,4 +7,4 @@
 
 
 Play my game without game engine for tablet ^^
-https://github.com/HenriqueCarvalho/workspace_android/tree/master/HOC…
+https://github.com/HenriqueCarvalho/workspace_android/tree/master/HOC_final_project
