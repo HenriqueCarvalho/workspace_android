@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">week10_flickr</string>
+    <string name="flickr_api_key">c0ae7fe00380d292fbc949ce0b3ea34b</string>
+
+</resources>

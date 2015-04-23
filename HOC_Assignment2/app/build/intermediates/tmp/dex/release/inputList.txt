@@ -1,0 +1,4 @@
+/Users/henriquecarvalho/workspace_android/HOC_Assignment2/app/build/intermediates/classes/release
+/Users/henriquecarvalho/workspace_android/HOC_Assignment2/app/build/intermediates/pre-dexed/release/support-annotations-21.0.3-29725526dceab344a1e4dc702afa741234915028.jar
+/Users/henriquecarvalho/workspace_android/HOC_Assignment2/app/build/intermediates/pre-dexed/release/internal_impl-21.0.3-b886cf233f3dc4c234ad9962bee8a2a5171545fc.jar
+/Users/henriquecarvalho/workspace_android/HOC_Assignment2/app/build/intermediates/pre-dexed/release/classes-33be08abd000c28e0a0a556982c389213e10889c.jar
