@@ -2,7 +2,7 @@
 
 
 ********* ********* ********* ********* ********* ********* ********* ********* 
-    HERE YOU CAN SEE ALL MY ANDROID APPS THAT I BUILT THIS SEMESTER
+    HERE YOU CAN SEE ALL MY ANDROID APPS
 ********* ********* ********* ********* ********* ********* ********* ********* 
 
 
